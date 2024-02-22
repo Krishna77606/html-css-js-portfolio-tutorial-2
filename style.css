@@ -420,6 +420,10 @@ article .icon {
   height: 2.5rem;
 }
 
+.figma-icon {
+  cursor: default;
+}
+
 /* FOOTER SECTION */
 
 footer {
